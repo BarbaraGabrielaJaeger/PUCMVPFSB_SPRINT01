@@ -1,2 +1,5 @@
-# PUCMVPFSB_SPRINT01
-Sprint 01 - print: Desenvolvimento Full Stack Básico (40530010058_20240_04)
+Códigos das disciplinas da especialização online **Pós-Graduação em Engenharia de Software**, do Departamento de Informática da PUC-Rio.
+
+Coordenação: **Prof. Marcos Kalinowski** (*kalinowski@inf.puc-rio.br*)
+
+Mais informações em: https://especializacao.ccec.puc-rio.br/especializacao/engenharia-de-software
